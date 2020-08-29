@@ -1,0 +1,3 @@
+[submodule "3dparty/nano"]
+	path = 3dparty/nano
+	url = https://github.com/wjakob/nanogui.git
