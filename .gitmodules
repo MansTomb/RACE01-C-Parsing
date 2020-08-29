@@ -1,6 +1,3 @@
-[submodule "3dparty/nuklear"]
-	path = 3dparty/nuklear
-	url = https://github.com/Immediate-Mode-UI/Nuklear.git
-[submodule "3dparty/gumbo"]
-	path = 3dparty/gumbo
-	url = https://github.com/lazytiger/gumbo-query.git
+[submodule "3dparty/nano"]
+	path = 3dparty/nano
+	url = https://github.com/wjakob/nanogui.git
